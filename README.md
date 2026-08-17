@@ -1,2 +1,4 @@
 # van-leerdam-et-al-2026
 Code for the delayed milk ejection/bimodality paper where we looked at difference in lactation curve characteristics associated with delayed milk ejection. 
+
+Delayed milk ejection (DME), characterized by a slow or interrupted increase in milk flow after the milking unit is attached, occurs in a substantial proportion of milkings. Although previous studies have shown that DME is associated with reduced milk yield during individual milkings, its implications for milk production over an entire lactation are less clear. In this study, a higher proportion of milkings with DME was associated with lower peak and cumulative milk yield, but little effect on persistency. These findings suggest that repeated DME may be relevant to dairy farm productivity and highlight the potential value of optimizing milking routines and genetic selection for favorable milkability.
