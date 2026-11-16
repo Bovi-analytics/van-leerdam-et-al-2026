@@ -1,0 +1,23 @@
+# Requirements for van-leerdam-et-al-2026
+# Bi-modal milk flow lactation curve analysis
+
+# Core data manipulation
+pandas==2.2.3
+numpy<=2.1  # constrained for SHAP compatibility with XGBoost
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Statistical modeling
+scipy==1.15.1
+statsmodels==0.14.4
+
+# Machine learning
+scikit-learn==1.6.1
+xgboost==3.4.1
+shap==0.54.1
+
+# Lactation curve analysis
+# https://doi.org/10.5281/zenodo.18715144
+lactationcurve==1.3.1
